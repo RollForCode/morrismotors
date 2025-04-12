@@ -28,6 +28,15 @@ a:hover {
   color: rgb(223, 223, 223);
 }
 
+.logoheader {
+  height: 50px;
+  width: auto;
+}
+
+.svg {
+  background-color: #4f66e6;
+}
+
 h1,
 h2,
 h3,
